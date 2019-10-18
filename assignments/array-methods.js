@@ -119,3 +119,6 @@ console.log(companyName.sort());
 let goldLevel = runners.filter(object => object.donation >= 200);
 
 console.log(goldLevel);
+
+
+
